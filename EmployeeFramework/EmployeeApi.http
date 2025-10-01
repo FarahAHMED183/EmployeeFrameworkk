@@ -1,0 +1,40 @@
+### Employee Management API Test File
+### Base URL: http://localhost:8080
+
+### Get all employees
+GET http://localhost:8080/api/employees
+Accept: application/json
+
+### Get all employees with pagination
+GET http://localhost:8080/api/employees?page=1&pageSize=5
+Accept: application/json
+
+### Get employee by ID (replace with actual employee ID)
+GET http://localhost:8080/api/employees/{{employeeId}}
+Accept: application/json
+
+### Create new employee
+POST http://localhost:8080/api/employees
+Content-Type: application/json
+
+{
+  "name": "Alice Johnson",
+  "address": "321 Elm Street, Boston, MA 02101",
+  "age": 32,
+  "salary": 90000
+}
+
+### Update employee (replace {{employeeId}} with actual ID)
+PUT http://localhost:8080/api/employees/{{employeeId}}
+Content-Type: application/json
+
+{
+  "name": "Alice Johnson Updated",
+  "address": "321 Elm Street, Boston, MA 02101",
+  "age": 33,
+  "salary": 95000
+}
+
+### Delete employee (replace {{employeeId}} with actual ID)
+DELETE http://localhost:8080/api/employees/{{employeeId}}
+Accept: application/json
