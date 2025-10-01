@@ -1,7 +1,0 @@
-C:\Users\zas\source\repos\EmployeeFramework\EmployeeFramework\bin\Debug\EmployeeFramework.exe.config
-C:\Users\zas\source\repos\EmployeeFramework\EmployeeFramework\bin\Debug\EmployeeFramework.exe
-C:\Users\zas\source\repos\EmployeeFramework\EmployeeFramework\bin\Debug\EmployeeFramework.pdb
-C:\Users\zas\source\repos\EmployeeFramework\EmployeeFramework\obj\Debug\EmployeeFramework.csproj.AssemblyReference.cache
-C:\Users\zas\source\repos\EmployeeFramework\EmployeeFramework\obj\Debug\EmployeeFramework.csproj.CoreCompileInputs.cache
-C:\Users\zas\source\repos\EmployeeFramework\EmployeeFramework\obj\Debug\EmployeeFramework.exe
-C:\Users\zas\source\repos\EmployeeFramework\EmployeeFramework\obj\Debug\EmployeeFramework.pdb
